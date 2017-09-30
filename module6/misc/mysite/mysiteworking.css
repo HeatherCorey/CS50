@@ -1,0 +1,56 @@
+div.img {
+    margin: 5px;
+    border: 1px solid #ccc;
+    float: left;
+    width: 400px;
+}
+
+div.img:hover {
+     border: 1px solid #777;
+}
+
+div.img img {
+    width: 100%;
+    height: auto;
+}
+
+div.desc {
+    padding: 15px;
+    text-align: center;
+}
+
+body
+{
+    text-align: center;
+    background-color: #000000;
+    color: #FFFFFF;
+    
+}
+
+#eighties
+{
+    display: inline-block;
+    text-align: center;
+    background-color: #000000;
+    color: #00FF00;
+    font-family: "Lucida Console", Monaco, monospace;
+}
+
+#nineties
+{
+        display: inline-block;
+        text-align: center;
+        background-color: #0000FF;
+        color: #00FF00;
+        font-family: "Lucida Console", Monaco, monospace;
+}
+
+#zeroes
+{
+    
+}
+
+#tens
+{
+    
+}
